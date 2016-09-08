@@ -4,7 +4,9 @@
  * Noch Notwendige Implentierungen:
  *    - Netwerkshield Programmcode
  *    - GP2Y1010AU0F - Sensor für PM2.5 Messwerte
- * 
+ * 	  - ACS712 - Strom vom Solarmodul zum Akku
+ * 	  - ACS712 - Stromverbrauch von Hardware
+ *    - Lux-Meter
  * 
  * 
  * 
